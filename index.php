@@ -36,9 +36,9 @@ echo "<script>window.location.href='signin.php'</script>";
     
 
 
-    <link href="assests/style.css" rel="stylesheet">
-    <script src="assests/jquery-1.11.1.min.js"></script>
-    <script src="assests/bootstrap.min.js"></script>
+    <link href="css/style.css" rel="stylesheet">
+    <script src="css/jquery-1.11.1.min.js"></script>
+    <script src="css/bootstrap.min.js"></script>
  <script>
 function checkusername(va) {
   $.ajax({
